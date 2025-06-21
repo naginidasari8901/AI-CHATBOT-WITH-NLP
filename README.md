@@ -1,5 +1,19 @@
 # AI-CHATBOT-WITH-NLP
 
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: DASASRI NAGANI
+
+*INTERN ID*: CT08DF564 
+
+*DOMAIN*: PYTHON
+
+*DURATION*: 8 WEEEKS
+
+*MENTOR*: NEELA SANTHOSH KUMAR
+
+# YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK (AND IT SHOULD NOT BE LESS THAN 500 WORDS)
+
 # What Is an AI Chatbot?
 An AI chatbot is a software program that simulates human-like conversation using artificial intelligence, especially Natural Language Processing (NLP). These bots can:
 
