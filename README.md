@@ -50,6 +50,7 @@ Let’s see how easy it is to build conversational AI assistants using Alltius.
 Sign up at Alltius
 Go to Coach Assistants > +Create New
 
+
 Alltius platform : How to create an AI assistant?
 # Step 2: Train Your Assistant
 Add sources like PDFs, videos, Excel files, webpages, APIs, etc.
