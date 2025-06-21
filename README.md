@@ -50,20 +50,30 @@ Let’s see how easy it is to build conversational AI assistants using Alltius.
 Sign up at Alltius
 Go to Coach Assistants > +Create New
 
+![Image](https://github.com/user-attachments/assets/ffc3bd10-8d51-4390-b568-78e6c66b8b26)
 
 Alltius platform : How to create an AI assistant?
+
 # Step 2: Train Your Assistant
 Add sources like PDFs, videos, Excel files, webpages, APIs, etc.
 Or connect to platforms like Slack, Zendesk, or Intercom via integrations
 
+![Image](https://github.com/user-attachments/assets/5e66cf5d-4410-4ea5-8886-3f4e2a8c9548)
+
 Training AI assistant on Alltius platform.
+
 # Step 3: Test the Assistant
 Use the Playground to test responses in real-time
 
+![Image](https://github.com/user-attachments/assets/5b3e959b-0de4-42f7-b9ad-c085b43b9694)
+
 Testing AI assistant on Alltius platform
+
 # Step 4: Deploy Anywhere
 Go to Channels > Add New Widget
 Deploy to your website, Slack, support tools, or product dashboard
+
+![Image](https://github.com/user-attachments/assets/12affdf5-1b1f-4a36-bc8c-f0e0d61d9806)
 
 Deploying AI assistant on multiple channels using Alltius API
 💡 Alltius is ideal for businesses looking to automate support, onboarding, internal knowledge retrieval, and more.
